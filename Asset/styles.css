@@ -2,13 +2,16 @@
     margin-top: 7rem;
 }
 
-.card-title {
-    font-family: 'garamond' sans-serif;
-    /* font-weight: 400; */
-    /* font-size: 4rem; */
+.pics2 {
+    margin-top: 10rem;
 }
 
-.card-text {
+.text1 {
     font-size: 1.3rem;
+    font-weight: 300;
+}
+
+.text2 {
+    font-size: 1.2rem;
     font-weight: 300;
 }
