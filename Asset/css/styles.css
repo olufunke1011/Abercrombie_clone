@@ -54,3 +54,35 @@
     margin-right: 2rem;
     margin-top: 1rem;
 }
+
+.footbtn {
+    position: relative;
+    right: 2rem;
+    bottom: .1rem;
+    padding: .9rem;
+    border-radius: 0;
+}
+
+.footerLine {
+    border-bottom: .2px solid  black;
+    margin-top: 5rem;
+}
+
+.icon {
+    position: relative;
+    right: 4rem;
+}
+
+.longLine{
+    border-bottom: .1px solid grey;
+    margin-top: 2rem;
+}
+
+.lastLinks{
+    justify-content: space-between;
+}
+
+.col-text2 {
+    font-size: .7rem;
+    font-weight: 100;
+}
