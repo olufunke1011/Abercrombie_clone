@@ -2,13 +2,21 @@
     margin-top: 7rem;
 }
 
+.pics1-text {
+    font-family: 'garamond-premier-pro', serif;
+}
+
 .pics2 {
     margin-top: 10rem;
 }
 
+.pics2-text {
+    font-family: 'Trade Gothic',sans-serif;
+}
 .text1 {
-    font-size: 1.3rem;
-    font-weight: 300;
+    font-size: 1rem;
+    /* letter-spacing: .03em; */
+    /* font-weight: 100; */
 }
 
 .text2 {
