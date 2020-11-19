@@ -1,3 +1,54 @@
+
+.paratext {
+    font-size: .8rem;
+    margin-right: 2rem;
+  }
+  .containerBox{
+    display: flex;
+    flex-direction: row;
+    font-size: .8rem;
+  }
+  .dropdown-content{
+    width: 1000%;
+    padding: 50px;
+  }
+  
+  .dropdown-content li {
+    list-style-type: none;
+  
+  }
+  
+  .dropbtn {
+    color: white;
+    padding: 16px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {border-bottom: 2px solid black;}
+
 .pics1 {
     margin-top: 7rem;
 }
