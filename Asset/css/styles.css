@@ -145,3 +145,76 @@
     font-size: .7rem;
     font-weight: 100;
 }
+
+footer {
+  background-color: grey;
+  color: #374e62;
+}
+
+@media(max-width: 1200px){
+
+  .order {
+   margin-right: 20rem;
+  }
+
+  .logo {
+    display: none;
+  }
+
+  .gender {
+    display: none;
+  }
+
+  .navbar-toggler-icon {
+    display: block;
+  }
+
+  .navbar-collapse {
+    display: none;
+    /* position: relative;
+    right: 20rem; */
+  }
+
+  .topIcon {
+    display: none;
+  }
+
+  .logo2 {
+    text-align: center;
+  }
+
+  .pics1 {
+    margin-top: 20rem;
+  }
+
+  .shop {
+    border-radius: 0;
+    margin-right: 3rem;
+    /* padding: 30rem; */
+  }
+
+  .pics2 {
+    margin-top: 25rem;
+  }
+
+  .image {
+    width: 40%;
+  }
+
+  .pics2-text {
+    font-size: 2rem;
+  }
+
+  .black {
+    margin-bottom: 20rem;
+  }
+
+  /* .pics1a {
+    margin-bottom: 20rem;
+  } */
+
+  /* .pics4 {
+    margin-bottom: 40rem;
+  } */
+}
+  
