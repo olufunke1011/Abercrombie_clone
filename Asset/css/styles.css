@@ -249,11 +249,12 @@ footer {
   .footbtn {
     position: relative;
     left: 10rem;
-    /* top: -4.5rem; */
     bottom: 3.4rem;
   }
 
-  
+  .fabs {
+    margin-right: 1.5rem;
+  }
 
 }
   
